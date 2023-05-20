@@ -11,6 +11,8 @@ https://github.com/skirtapaieo/generative-AI-101/blob/main/langchain.ipynb
 
 # 3 AI Hackathon Stack (Latent Space Demo Day)
 
+https://github.com/swyxio/ai-notes/blob/main/Resources/AI-hackathon-stack.md
+
 ## LLM/Prompt Engineering Apps
 
 - **Templates/Example Apps/Tutorials**
