@@ -130,15 +130,6 @@ This category is for **infra and tools** catering to AI app developers, in contr
 - **Hackathon Entry Examples**
   -  a key-value store to enable long-term memory in language model conversations ([tweet](https://twitter.com/russelljkaplan/status/1616955361705197568?s=20&t=KIszRKntkT4Y-I-WwKI8Mg))
 
-## Misc Useful Resources
-
-Looking for tutorials, writeups, guides, inspo, requests for startups.
-
-- Hackathon Recaps for Inspiration
-  - Scale AI Hackathon https://scale.com/blog/generative-ai-hackathon
-  - AssemblyAI Hackathon https://twitter.com/AssemblyAI/status/1602717569659682816
-- _have something to add? send a PR!_
-
 # AI podcasts and newsletters 
 
 ## Podcasts
