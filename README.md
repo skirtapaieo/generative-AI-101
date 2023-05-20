@@ -190,3 +190,17 @@ some of these are on youtube too, i dont really bother separating them
 	- Lior AlphaSignal https://alphasignal.ai/
 	- Bot Eat Brain https://www.boteatbrain.com/
 - Mine :) https://latent.space/
+
+# 3 Vector databases 
+
+- [Pinecone](https://www.pinecone.io/)
+- [Faiss](https://github.com/facebookresearch/faiss)
+- [Annoy](https://github.com/spotify/annoy)
+- [Milvus](https://milvus.io/)
+- [SPTAG](https://github.com/microsoft/SPTAG)
+- [HNSW (Hierarchical Navigable Small World)](https://github.com/nmslib/hnswlib)
+- [NGT (Neighborhood Graph and Tree for Indexing High-dimensional Data)](https://github.com/yahoojapan/NGT)
+- [Weaviate](https://www.semi.technology/developers/weaviate/current/)
+- [Vespa](https://vespa.ai/)
+
+
