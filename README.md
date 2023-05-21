@@ -1,5 +1,21 @@
 # generative-AI-101
 
+- [Generative AI 101](#generative-ai-101)
+  - [1. Tracking Prompts (PromptLayer)](#1-tracking-prompts-promptlayer)
+  - [2. LangChain - What is it?](#2-langchain---what-is-it)
+  - [3. AI Hackathon Stack (Latent Space Demo Day)](#3-ai-hackathon-stack-latent-space-demo-day)
+    - [LLM/Prompt Engineering Apps](#llmprompt-engineering-apps)
+      - [Templates/Example Apps/Tutorials](#templatesexample-appstutorials)
+      - [Tools to explore](#tools-to-explore)
+      - [Hackathon Entry Examples](#hackathon-entry-examples)
+    - [Code AI tools](#code-ai-tools)
+      - [Tutorials](#tutorials)
+      - [Tools to explore](#tools-to-explore-1)
+      - [Hackathon Entry Examples](#hackathon-entry-examples-1)
+    - [Audio/Visual/Multimodal Apps](#audiovisualmultimodal-apps)
+      - [Tools to explore](#tools-to-explore-2)
+      - [Hackathon Entry Examples](#hackathon-entry-examples-2)
+
 # 1 Tracking Prompts (PromptLayer) 
 
 PromptLayer https://docs.promptlayer.com/what-is-promptlayer/wxpF9EZkUwvdkwvVE9XEvC/how-promptlayer-works/dvgGSxNe6nB1jj8mUVbG8r
