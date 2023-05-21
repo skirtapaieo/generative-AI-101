@@ -15,6 +15,7 @@
     - [Audio/Visual/Multimodal Apps](#audiovisualmultimodal-apps)
       - [Tools to explore](#tools-to-explore-2)
       - [Hackathon Entry Examples](#hackathon-entry-examples-2)
+    - etc ... 
 
 # 1 Tracking Prompts (PromptLayer) 
 
