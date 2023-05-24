@@ -23,6 +23,8 @@
 
 # 0 Prompt Engineering for Developers 
 
+I think you are looking for information on ChatGPT Prompt Engineering for Developers. This is a short course taught by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI) that describes how LLMs work, provides best practices for prompt engineering, and shows how LLM APIs can be used in applications for a variety of tasks, including inferring (e.g., sentiment classification, topic extraction)
+
 https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction
 
 # 1 Tracking Prompts (PromptLayer) 
