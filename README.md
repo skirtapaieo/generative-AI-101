@@ -1,7 +1,7 @@
 # generative-AI-101
 
 - [Generative AI 101](#generative-ai-101)
-  - [0. Prompt Engineering for Developers (#0-Prompt-Engineering-for-developers)]
+  - [0. Prompt Engineering for Developers] (#0-Prompt-Engineering-for-developers)
   - [1. Tracking Prompts (PromptLayer)](#1-tracking-prompts-promptlayer)
   - [2. LangChain - What is it?](#2-langchain---what-is-it)
   - [3. AI Hackathon Stack (Latent Space Demo Day)](#3-ai-hackathon-stack-latent-space-demo-day)
