@@ -23,6 +23,12 @@
 
 # Hello World using ChatGPT 
 
+Last slide from Andrej Karpathys presentation at 2023-05-23 on Microsoft Build 
+https://github.com/skirtapaieo/generative-AI-101/blob/main/Hello-world-kind-of.ipynb 
+
+Link to presentation --> https://t.co/HDJix905Gy
+
+
 
 
 # 0 Prompt Engineering for Developers 
