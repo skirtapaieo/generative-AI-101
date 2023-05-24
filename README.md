@@ -20,6 +20,9 @@
      - [Vector Databases](#vector-databases)
 
 
+# 0 Prompt Engineering for Developers 
+
+https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction
 
 # 1 Tracking Prompts (PromptLayer) 
 
