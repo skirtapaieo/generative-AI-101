@@ -22,11 +22,11 @@
      - [AI Podcasts and Newsletters](#ai-podcasts-and-newsletters)
      - [Vector Databases](#vector-databases)
 
-# OpenAI function calls 
+# OpenAI function calls (June) 
 
 
 
-# Hello World using ChatGPT 
+# Hello World using ChatGPT (May) 
 
 Last slide from Andrej Karpathys presentation at 2023-05-23 on Microsoft Build 
 https://github.com/skirtapaieo/generative-AI-101/blob/main/Hello-world-kind-of.ipynb 
