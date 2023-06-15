@@ -24,7 +24,7 @@
 
 # OpenAI function calls (June) 
 
-https://github.com/skirtapaieo/generative-AI-101/blob/main/open-ai-function-calls.ipynb
+https://github.com/skirtapaieo/generative-AI-101/blob/main/open-ai-function-calls.ipynb by @svpino at https://github.com/svpino/openai-function-calling/blob/main/sample.ipynb
 
 # Hello World using ChatGPT (May) 
 
