@@ -1,7 +1,8 @@
 # generative-AI-101
 
 - [Generative AI 101](#generative-ai-101)
-  - [OpenAI Function calls] 
+  - [OpenAI Function calls](#openai-function-calls)
+  - [Hello Worlds using Chat GPT](#Hello-world-using-chatgpt)
   - [Prompt Engineering for Developers](#Prompt-Engineering-for-developers)
   - [Tracking Prompts (PromptLayer)](#tracking-prompts-promptlayer)
   - [LangChain - What is it?](#2-langchain---what-is-it)
@@ -32,7 +33,7 @@ Link to presentation --> https://t.co/HDJix905Gy
 
 
 
-# 0 Prompt Engineering for Developers 
+# Prompt Engineering for Developers 
 
 I think you are looking for information on ChatGPT Prompt Engineering for Developers. This is a short course taught by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI) that describes how LLMs work, provides best practices for prompt engineering, and shows how LLM APIs can be used in applications for a variety of tasks, including inferring (e.g., sentiment classification, topic extraction)
 
