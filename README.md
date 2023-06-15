@@ -22,6 +22,9 @@
      - [AI Podcasts and Newsletters](#ai-podcasts-and-newsletters)
      - [Vector Databases](#vector-databases)
 
+# OpenAI function calls 
+
+
 
 # Hello World using ChatGPT 
 
