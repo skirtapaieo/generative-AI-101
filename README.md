@@ -1,10 +1,11 @@
 # generative-AI-101
 
 - [Generative AI 101](#generative-ai-101)
-  - [1. Prompt Engineering for Developers](#0-Prompt-Engineering-for-developers)
-  - [2. Tracking Prompts (PromptLayer)](#1-tracking-prompts-promptlayer)
-  - [3. LangChain - What is it?](#2-langchain---what-is-it)
-  - [4. AI Hackathon Stack (Latent Space Demo Day)](#3-ai-hackathon-stack-latent-space-demo-day)
+  - [OpenAI Function calls] 
+  - [Prompt Engineering for Developers](#Prompt-Engineering-for-developers)
+  - [Tracking Prompts (PromptLayer)](#tracking-prompts-promptlayer)
+  - [LangChain - What is it?](#2-langchain---what-is-it)
+  - [AI Hackathon Stack (Latent Space Demo Day)](#3-ai-hackathon-stack-latent-space-demo-day)
     - [LLM/Prompt Engineering Apps](#llmprompt-engineering-apps)
       - [Templates/Example Apps/Tutorials](#templatesexample-appstutorials)
       - [Tools to explore](#tools-to-explore)
